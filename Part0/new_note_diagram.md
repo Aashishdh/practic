@@ -1,5 +1,5 @@
 # Exercise 0.4: New Note Diagram
-
+<!-- 1 changed -->
 ```mermaid
 sequenceDiagram
     participant browser
